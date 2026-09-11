@@ -1,0 +1,37 @@
+name: A
+subject:Maths
+mark:99
+name: B
+subject:Maths
+mark:90
+name: C
+subject:Maths
+mark:98
+name: A
+subject:Che
+mark:98
+name: B
+subject:CHe
+mark:98
+name: A
+subject:Tam
+mark:90
+name: G
+subject:Phy
+mark:90
+name: A
+subject:Che
+mark:99
+average: 94.5name: B
+subject:Che
+mark:99
+average: 94.5name: K
+subject:Maths
+mark:78
+average: 78.0name: L
+subject:Maths
+mark:89
+average: 89.0name: Nithya
+subject:Maths
+mark:23
+Pass/Fail: failaverage: 23.0

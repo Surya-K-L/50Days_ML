@@ -1,0 +1,8 @@
+name= input("Enter your name: ")
+age=int(input("Enter your age: "))
+salary=float(input("Enter your salary: "))
+city=input("Enter your city: ")
+print(name)
+print(age)
+print(salary)
+print(city)
