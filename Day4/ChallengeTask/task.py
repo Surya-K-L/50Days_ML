@@ -1,0 +1,16 @@
+import numpy as np
+marks=np.random.randint(1,101,(10,3))
+print(marks)
+print("\nShape: ",marks.shape)
+print("\nOverall Mean: ",np.mean(marks))
+print("\nOverall Median: ",np.median(marks))
+print("\nOverall Standard Deviation: ",np.std(marks))
+print("\nEach Student Average: ",np.mean(marks,axis=1))
+print("\nEach Subject average: ",np.mean(marks,axis=0))
+print("\nHighest Mark: ",np.max(marks))
+print("\nLowest Mark: ",np.min(marks))
+print("\nAll mark greater than 80: ")
+print(marks[marks>80])
+print("\nAll marks below 40 change to 40")
+marks[marks<40]=40
+print(marks)
