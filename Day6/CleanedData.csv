@@ -1,0 +1,11 @@
+Name,Age,Salary,Experience,Department_Finance,Department_HR,Department_IT
+Arun,25.0,45000,2,False,False,True
+Kumar,30.0,55000,5,False,True,False
+Priya,31.0,65000,4,False,False,True
+Divya,35.0,75000,8,True,False,False
+Rahul,31.0,50000,3,False,False,True
+Anitha,32.0,60000,6,False,True,False
+Vijay,40.0,90000,12,True,False,False
+Meena,29.0,70000,5,False,False,True
+Suresh,38.0,85000,10,True,False,False
+Kavya,31.0,65000,1,False,True,False

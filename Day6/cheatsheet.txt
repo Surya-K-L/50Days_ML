@@ -1,0 +1,34 @@
+# Missing values
+df.isnull()
+df.isnull().sum()
+df.dropna()
+df.fillna()
+
+# Duplicates
+df.duplicated()
+df.duplicated().sum()
+df.drop_duplicates()
+
+# Data types
+df.dtypes
+pd.to_numeric()
+pd.to_datetime()
+
+# Outliers
+Q1 = df["column"].quantile(0.25)
+Q3 = df["column"].quantile(0.75)
+IQR = Q3 - Q1
+
+# Encoding
+df["Gender"].map({"Male": 1, "Female": 0})
+
+pd.get_dummies(df, columns=["Department"])
+
+# Validation
+df["Age"].between(18, 60)
+
+df[df["Salary"] < 0]
+
+df[df["Marks"] > 100]
+
+df["Department"].isin(["IT", "HR", "Finance"])
