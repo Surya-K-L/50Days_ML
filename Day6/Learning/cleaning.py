@@ -69,6 +69,7 @@ print("\nUpper Bound: ",upper)
 # print("\n Salary Outliers: ")
 # print(outliers)
 
+#Encoding
 data=pd.get_dummies(data,columns=["Department"])
 print(data)
 
