@@ -1,0 +1,21 @@
+             Dataset
+                ↓
+       1. Understand data
+                ↓
+       2. Check data quality
+                ↓
+       3. Statistics
+                ↓
+       4. Univariate analysis
+                ↓
+       5. Bivariate analysis
+                ↓
+       6. Multivariate analysis
+                ↓
+       7. Find patterns
+                ↓
+       8. Find unusual values
+                ↓
+       9. Form conclusions
+                ↓
+        Ready for ML
