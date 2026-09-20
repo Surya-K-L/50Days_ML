@@ -6,5 +6,4 @@ sns.histplot(data["Salary"],kde=True)
 plt.title("Salary Distribution")
 plt.xlabel("Salary")
 plt.ylabel("Number of Employees")
-
 plt.show()
