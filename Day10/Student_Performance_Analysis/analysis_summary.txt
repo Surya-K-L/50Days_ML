@@ -1,0 +1,31 @@
+STUDENT PERFORMANCE ANALYSIS SUMMARY
+========================================
+Number of students: 395
+Number of columns: 34
+Average final grade: 10.42
+Median final grade: 11.00
+Average absences: 5.71
+
+Correlation with final grade:
+G2            0.905
+G1            0.801
+failures     -0.360
+Medu          0.217
+age          -0.162
+Fedu          0.152
+goout        -0.133
+traveltime   -0.117
+studytime     0.098
+health       -0.061
+Dalc         -0.055
+Walc         -0.052
+famrel        0.051
+absences      0.034
+freetime      0.011
+
+Study time summary:
+studytime_label
+10+ hours            11.26
+2 to 5 hours         10.17
+5 to 10 hours        11.40
+Less than 2 hours    10.05
